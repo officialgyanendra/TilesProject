@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_72">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/aspectjweaver-1.8.7.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/jcl-over-slf4j-1.7.19.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/log4j-over-slf4j-1.7.19.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/slf4j-api-1.7.19.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/slf4j-log4j12-1.7.19.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-aop-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-aspects-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-beans-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-context-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-context-support-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-core-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-expression-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-instrument-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-instrument-tomcat-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-jdbc-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-jms-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-messaging-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-orm-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-oxm-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-test-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-tx-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-web-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-webmvc-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-webmvc-portlet-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/spring-websocket-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/tiles-api-3.0.5.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/tiles-autotag-core-runtime-1.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/tiles-core-3.0.5.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/tiles-jsp-3.0.5.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/tiles-request-api-1.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/tiles-request-jsp-1.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/tiles-request-servlet-1.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/tiles-servlet-3.0.5.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/tiles-servlet-wildcard-2.2.2.jar"/>
+	<classpathentry kind="lib" path="F:/java/Student DVD/Student DVD/Tiles Framework/tiles-template-3.0.5.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
